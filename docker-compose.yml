@@ -5,4 +5,3 @@ services:
       ports:
         - '80:80'
       restart: always
-      user: ${CURRENT_UID}
